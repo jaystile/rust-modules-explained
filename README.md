@@ -1,5 +1,7 @@
 # Rust modules explained
-As I was learning Rust, I was created a project that used multiple libraries and I kept running into exceptions that I could not explain. I wanted to write something to document my misunderstandings and provide a solution that can be copied for your benefit and maybe increase your understanding.
+![Confusion](woah.jpg)
+
+As I was learning Rust, I was created a project that used multiple libraries and I kept running into exceptions that I could not explain and I had a lot of confusion. I wanted to write something to document my misunderstandings and provide a solution that can be copied for your benefit and maybe increase your understanding. 
 
 ## References
 The documentation on modules and various stack overflow questions and answers led me to believe that adding submodules and re-exporting them should be possible and easy.
