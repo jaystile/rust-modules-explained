@@ -1,7 +1,7 @@
 #[cfg(test)]
 pub mod triangles {
 
-    use geometry::dims::{Type,Dimensional};
+    use geometry::{Type,Dimensional};
 
     #[test]
     fn validate_type_test() {
